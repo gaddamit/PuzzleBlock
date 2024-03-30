@@ -1,4 +1,4 @@
-# PuzzleBlock
+# Puzzle Block
 Puzzle Block Assignment for Game1202
 
 ## Mechanics
