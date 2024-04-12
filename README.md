@@ -17,5 +17,6 @@ Puzzle Block Assignment for Game1202
 1. Allow the character to activate a pressure pad by jumping on it.
   
 ## Resources
-Graphics: https://www.unrealengine.com/marketplace/en-US/product/isometric-cube-environment  
+Characters & Animations: https://www.mixamo.com  
+Environment: https://www.unrealengine.com/marketplace/en-US/product/isometric-cube-environment  
 Sound: https://assetstore.unity.com/packages/audio/music/free-casual-island-game-loops-149975
