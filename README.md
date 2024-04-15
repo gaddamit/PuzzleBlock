@@ -2,7 +2,7 @@
 Puzzle Block Assignment for Game1202
 
 ## Mechanics
-- Player neeeds to reach the exit gate.
+- Player needs to reach the exit gate.
 - Player can activate doors and bridges by placing a block on the pressure pad.
 - The pressure pad can be triggered by placing a block of similar color.
 - Blocks can be found on the level which can be carried by pressing 'E'.
